@@ -66,6 +66,5 @@ public class ConverterToRomanDigits {
         String result = romanTens + romanOnes;
         return result;
     }
-
 }
 
