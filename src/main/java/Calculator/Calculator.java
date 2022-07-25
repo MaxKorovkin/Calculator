@@ -117,6 +117,7 @@ public class Calculator {
         return (a >= 1 && a <= 10) && (b >= 1 && b <= 10);
     }
 
+
     /**
      * Check operation boolean.
      * проверяет валидность арифметической операции
